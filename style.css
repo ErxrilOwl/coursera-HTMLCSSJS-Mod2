@@ -9,10 +9,13 @@ div{
 	border: 1px solid black;
 	padding: 13px;
 	width: 90%;
-	height: 100px;
 	margin: 1%;
 	position: relative;
 	box-sizing: border-box;
+}
+
+div.block1, div.block2, div.block3{
+	width: 50%
 }
 
 .row{
