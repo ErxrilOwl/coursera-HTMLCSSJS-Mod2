@@ -14,10 +14,6 @@ div{
 	box-sizing: border-box;
 }
 
-div.block1, div.block2, div.block3{
-	width: 150px%
-}
-
 .row{
 	width: 100%;
 	margin-left: auto;
